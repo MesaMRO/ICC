@@ -1,4 +1,4 @@
-ICC-Spring-2014
-===============
+Mesa ICC Documents
+==================
 
-ICC related documents for the Spring 2014 semester.
+All Mesa Inter-club Council (ICC) related documents.
