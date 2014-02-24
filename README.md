@@ -1,7 +1,7 @@
 Mesa Robotics ICC Documents
 ===========================
 
-Organized and accessable MRO-ICC book-keeping using LaTeX as the document preparation langauge of choice. Whenever the new website gets finished most of these documents will be migrated there. Expect integration with the now open source [ShareLatex](https://github.com/sharelatex/sharelatex) collaborative editor, but running locally on the club website.
+Organized and accessible MRO-ICC book-keeping using LaTeX as the document preparation language of choice. Whenever the new website gets finished most of these documents will be migrated there. Expect integration with the now open source [ShareLatex](https://github.com/sharelatex/sharelatex) collaborative editor, but running locally on the club website.
 
 Types of documents hosted in this repository:
 
