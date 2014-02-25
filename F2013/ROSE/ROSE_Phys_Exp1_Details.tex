@@ -1,0 +1,60 @@
+% Document & Package Configuration
+
+\documentclass[10pt]{scrartcl}
+
+\usepackage[top=2in, bottom=1.5in, left=1in, right=1in]{geometry}
+\usepackage{amsmath}
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Command & Macro Configuration
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\centerline}[1]{
+    \\[1em]
+    #1
+    \\[1em]
+}
+
+% %%%%%%%%%%%%%
+% Document Body
+% %%%%%%%%%%%%%
+
+\begin{document}
+
+\title{ROSE Project}
+\subtitle{Experiment 1: Kinetic & Potential Energy}
+\author{Mesa Robotics Organization}
+\date{2013 November 15}
+
+% \maketitle
+
+\section{Intro}
+
+This experiment was designed to familiarize students with the concepts of kinetic and potential energy. Some mathematical knowledge is assumed of participants. The apparatus can realistically be designed and scaled at will to fit within a building or classroom; a maximum height of two meters, for example, can be considered a reasonable expectation. 
+
+\section{Materials}
+Based on current designs, the entire experiment can be controlled by one Arduino UNO microcontroller. As part of the contextual narrative, the experiment includes a fictional “fuel cell” element.  This “fuel cell” would ideally be a sphere of dense material that can easily be manipulated by the human hand, e.g., a steel ball bearing or smaller. The current track design calls for affordable aluminum or plastic pieces, but multiple options are still being explored. Balls that fall into the “canyon” or pass into the target zone will both pass into a downward-sloped area terminating beneath the ramp, where they will be retrieved by a vertical recovery system powered by a single, small motor. The recovery system will then pass the ball to the top of the track, where it continues along until it reaches a variable height selection system, actuated by another small motor and remotely controlled by the students, which can be moved along the entirety of the track, and holds the ball at a desired height.  Finally, the students are given control of a switch controlling a release mechanism to drop the ball. 
+
+\section{Instructional Approach}
+An effort is made to captivate students through a multi-step learning structure. The students are prompted to form an initial hypothesis and test it; intuitively most will reason that to achieve the required trajectory the height of the ball needs to be doubled, which is not the case. After a counter-intuitive failure, the students are introduced to the lesson material, and given a chance to refine their hypothesis. Once equipped with a better understanding of Newtonian mechanics, the students have a better chance of success.
+
+\section{Scenario}  
+\subsection{Prompt}
+The hydraulic transport system that engineers use to move a fuel cell across a canyon has stopped working!  Fortunately for the engineers, the fuel cell is perfectly round, and located at the top of a hill with an ingeniously-placed, adjustable track and ramp. Using the equipment at hand, the fuel cells can be rolled down the hill to clear the gap and reach the mining equipment; the engineers on the other side of the canyon will use it continue to excavate raw materials to make precious fuel for their space craft.
+
+\subsection{Problem}
+From the top of the hill, the height where the fuel cell is initially dropped, the fuel cell does not roll fast enough to clear the canyon. According to readings taken, the fuel cell is only traveling half as fast as it needs to when it reaches the bottom of the ramp.
+In order for the fuel cell to be traveling twice as fast, how much higher would the ball need to dropped from?
+
+\subsection{Explanation}
+\subsection{Potential energy (U)}
+
+Because the fuel cell is raised up above ground level by being placed on the hill, it has what is called potential energy, measured in Joules. The potential energy of the fuel cell, represented by the letter U, is related to its mass (m), height from the ground (h), and the acceleration due to gravity (g). If you were to multiply all three of these variables together, the product would be the potential energy.
+
+\centerline{}
+
+$U = mgh$
+
+As the fuel cell rolls down the ramp, the height (h) grows smaller as it approaches the ground, and thus the potential energy (U) diminishes as well, eventually reaching 0. When the ball has reached the bottom of the ramp (i.e., ground level), the height is 0, and the potential energy in turn becomes 0 as well.
+
+\end{document}
