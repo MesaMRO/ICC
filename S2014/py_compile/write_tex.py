@@ -17,14 +17,7 @@ def GetPyTeXSelections(files):
         for i in range(0, len(files)):
             print('[%s]: "%s"'%(i, files[i]))
 
-# Open specified file
-# TODO PyTeX format specific file operations
-def OpenDocument(path_rawfile):
-    return open(path_rawfile, 'r')
 
-def BeginDocument(file, *pkgs):
-    with file as f:
-        print(file.line)
 
 def Main():
     pytex_files = GetPyTeXList()
