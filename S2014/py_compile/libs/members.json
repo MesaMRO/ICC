@@ -1,0 +1,73 @@
+[
+    {
+        "__type__": "officer",
+        "first": "mary",
+        "last": "swar",
+        "email": "socalswar@gmail.com",
+        "position": "President"
+    },
+    {
+        "__type__": "officer",
+        "first": "quan",
+        "last": "doan",
+        "email": "quandoan04@yahoo.com",
+        "position": "Treasurer"
+    },
+    {
+        "__type__": "officer",
+        "first": "charles",
+        "last": "bayley",
+        "email": "cbayley95@gmail.com",
+        "position": "Vice President"
+    },
+    {
+        "__type__": "officer",
+        "first": "nils",
+        "last": "olsson",
+        "email": "nilso@enosis.net",
+        "position": "Secretary/ICC Rep."
+    },
+    {
+        "__type__": "officer",
+        "first": "foryst",
+        "last": "cortopasi",
+        "email": "shadow_ridley@yahool.com",
+        "position": "Enforcer"
+    },
+    {
+        "__type__": "member",
+        "first": "virgil",
+        "last": "caragay",
+        "email": "v.caragay21@gmail.com"
+    },
+    {
+        "__type__": "member",
+        "first": "joseph",
+        "last": "clements",
+        "email": "josephmclements@gmail.com"
+    },
+    {
+        "__type__": "member",
+        "first": "adam",
+        "last": "yu",
+        "email": "yuadam108108@yahoo.com"
+    },
+    {
+        "__type__": "member",
+        "first": "andrey",
+        "last": "???",
+        "email": "munky8970@hotmail.com"
+    },
+    {
+        "__type__": "member",
+        "first": "devon",
+        "last": "???",
+        "email": "dmsallume@gmail.com"
+    },
+    {
+        "__type__": "member",
+        "first": "michael",
+        "last": "???",
+        "email": "elminc15@yahoo.com"
+    }
+]
