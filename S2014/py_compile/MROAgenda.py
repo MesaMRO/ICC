@@ -1,7 +1,16 @@
-from ./libs/LaTeXCompile import LaTeXDocument as texdoc
+from lib.LaTeXCompile import LaTeXDocument as Doc
+
+while True:
+    try:
+        year = int(input("Year: "))
+    try:
+        month = int(input("Year: "))
+    try:
+        day = int(input("Day: "))
 
 
-doc = texdoc()
+
+doc = Doc()
 # Packages
 doc.package_list = [
         ("tabularx"),
