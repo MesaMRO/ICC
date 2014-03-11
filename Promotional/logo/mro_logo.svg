@@ -497,11 +497,11 @@
      pagecolor="#7f7f7f"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.16078431"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="202.46586"
-     inkscape:cy="657.272"
+     inkscape:cx="786.46586"
+     inkscape:cy="465.272"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -686,300 +686,292 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4519"
-       transform="translate(0,9.6545715)">
-      <g
-         transform="translate(1e-4,-335.20562)"
-         id="g3431">
-        <path
-           style="fill:url(#linearGradient4576);fill-opacity:1;stroke:none"
-           d="m 540,57.375 c -59.64675,0 -108,48.35325 -108,108 0,5.78931 0.4666,11.45736 1.34375,17 L 476,182.36218 l 0,-6 c 10,0 16,-6 16,-16 l 0,-28 72,0 0,12 32,0 0,16 c 0,10 6,16 14,16 l 0,6 36.65625,0.0128 c 0.87715,-5.54264 1.34375,-11.21069 1.34375,-17 0,-59.64675 -48.35325,-108 -108,-108 z"
-           id="path4714-4-8"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ssccccccccccccss"
-           mask="url(#mask4776-5-9)"
-           transform="translate(-360.99999,721.61837)" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
-           d="m 179.00001,778.99337 c -59.64675,0 -108,48.35325 -108,108 0,11.51859 1.81669,22.59064 5.15625,33 l 205.6875,0 c 3.33956,-10.40936 5.15625,-21.48141 5.15625,-33 0,-59.64675 -48.35325,-108 -108,-108 z"
-           id="path4347-8-5"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 139.00001,909.98055 -68,-10e-6"
-           id="path3766-1-5-6-7"
-           sodipodi:nodetypes="cc" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 287.00001,909.98054 -70,10e-6"
-           id="path3766-1-4-02-4-6"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 219.00001,909.98055 0,-12 c -10,0 -16,-6 -16,-16 l 0,-28 -72,0 0,28 c 0,10 -6,16 -16,16 l 0,6"
-           id="path3772-6-6-1"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccc" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 155.00001,879.98055 0,2 c 0,8 -8,16 -16,16 l 0,14"
-           id="path2996-0-8-8"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 179.00001,916.98056 0,-25.00001"
-           id="path2996-7-2-9-9"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-        <path
-           sodipodi:type="arc"
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           id="path3868-4-8-2"
-           sodipodi:cx="402.5"
-           sodipodi:cy="439.86218"
-           sodipodi:rx="5"
-           sodipodi:ry="5"
-           d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
-           transform="translate(-247.49999,435.11837)" />
-        <path
-           sodipodi:type="arc"
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           id="path3868-9-8-3-7"
-           sodipodi:cx="402.5"
-           sodipodi:cy="439.86218"
-           sodipodi:rx="5"
-           sodipodi:ry="5"
-           d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
-           transform="translate(-223.49999,447.11837)" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 249.00001,903.98055 0,-6 c -8,0 -14,-6 -14,-16 l 0,-16 -31,0"
-           id="path3772-8-6-5-9"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc" />
-      </g>
-      <flowRoot
-         inkscape:export-ydpi="620.93958"
-         inkscape:export-xdpi="620.93958"
-         transform="matrix(0.89491099,0,0,0.89491099,116.83241,104.25678)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;font-family:Sans"
-         id="flowRoot4011-5"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4013-4"><rect
-             style="fill:#ffffff;stroke:#ffffff"
-             y="402.36218"
-             x="221.5"
-             height="227.37259"
-             width="456.78784"
-             id="rect4015-3" /></flowRegion><flowPara
-           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
-           id="flowPara4017-1">Mesa</flowPara><flowPara
-           id="flowPara4021-2"
-           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Robotics</flowPara><flowPara
-           id="flowPara4019-3"
-           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Organization</flowPara></flowRoot>    </g>
-    <g
-       id="g4557">
-      <g
-         transform="translate(1e-4,0)"
-         inkscape:export-ydpi="308.34052"
-         inkscape:export-xdpi="308.34052"
-         inkscape:export-filename="C:\Users\Nils\Documents\School\Clubs\MRO\Public documents\Promotional\logo\bitmaps\black_and_white\white_figure\bitmap.png"
-         id="g4488">
-        <path
-           style="fill:#000000;fill-opacity:0.25098039;stroke:none"
-           d="m 540,57.375 c -59.64675,0 -108,48.35325 -108,108 0,5.78931 0.4666,11.45736 1.34375,17 L 476,182.36218 l 0,-6 c 10,0 16,-6 16,-16 l 0,-28 72,0 0,12 32,0 0,16 c 0,10 6,16 14,16 l 0,6 36.65625,0.0128 c 0.87715,-5.54264 1.34375,-11.21069 1.34375,-17 0,-59.64675 -48.35325,-108 -108,-108 z"
-           id="path4714-4-8-0"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ssccccccccccccss"
-           mask="url(#mask4776-5-9-0)"
-           transform="translate(-360.99999,744.90396)" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
-           d="m 179.00001,802.27896 c -59.64675,0 -108,48.35325 -108,108 0,11.51859 1.81669,22.59064 5.15625,33 l 205.6875,0 c 3.33956,-10.40936 5.15625,-21.48141 5.15625,-33 0,-59.64675 -48.35325,-108 -108,-108 z"
-           id="path4347-8-5-0"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 139.00001,933.26614 -68,-10e-6"
-           id="path3766-1-5-6-7-5"
-           sodipodi:nodetypes="cc" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 287.00001,933.26613 -70,10e-6"
-           id="path3766-1-4-02-4-6-3"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 219.00001,933.26614 0,-12 c -10,0 -16,-6 -16,-16 l 0,-28 -72,0 0,28 c 0,10 -6,16 -16,16 l 0,6"
-           id="path3772-6-6-1-1"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccc" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 155.00001,903.26614 0,2 c 0,8 -8,16 -16,16 l 0,14"
-           id="path2996-0-8-8-0"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 179.00001,940.26615 0,-25.00001"
-           id="path2996-7-2-9-9-6"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-        <path
-           sodipodi:type="arc"
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           id="path3868-4-8-2-7"
-           sodipodi:cx="402.5"
-           sodipodi:cy="439.86218"
-           sodipodi:rx="5"
-           sodipodi:ry="5"
-           d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
-           transform="translate(-247.49999,458.40396)" />
-        <path
-           sodipodi:type="arc"
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           id="path3868-9-8-3-7-5"
-           sodipodi:cx="402.5"
-           sodipodi:cy="439.86218"
-           sodipodi:rx="5"
-           sodipodi:ry="5"
-           d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
-           transform="translate(-223.49999,470.40396)" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 249.00001,927.26614 0,-6 c -8,0 -14,-6 -14,-16 l 0,-16 -31,0"
-           id="path3772-8-6-5-9-0"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc" />
-      </g>
-      <flowRoot
-         inkscape:export-filename="C:\Users\Nils\Documents\School\Clubs\MRO\Public documents\Promotional\logo\bitmaps\black_and_white\white_figure\bitmap.png"
-         inkscape:export-ydpi="308.34052"
-         inkscape:export-xdpi="308.34052"
-         transform="matrix(0.89491099,0,0,0.89491099,116.83241,462.74799)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;display:inline;font-family:Sans"
-         id="flowRoot4011-5-0"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4013-4-4"><rect
-             style="fill:#ffffff;stroke:#ffffff"
-             y="402.36218"
-             x="221.5"
-             height="227.37259"
-             width="456.78784"
-             id="rect4015-3-5" /></flowRegion><flowPara
-           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
-           id="flowPara4017-1-4">Mesa</flowPara><flowPara
-           id="flowPara4021-2-9"
-           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Robotics</flowPara><flowPara
-           id="flowPara4019-3-5"
-           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Organization</flowPara></flowRoot>    </g>
-    <g
-       id="g4538"
-       transform="translate(0,-9.6545868)">
-      <g
-         transform="translate(1e-4,0)"
-         inkscape:export-ydpi="309.26175"
-         inkscape:export-xdpi="309.26175"
-         inkscape:export-filename="C:\Users\Nils\Documents\School\Clubs\MRO\Public documents\Promotional\logo\bitmaps\black_and_white\black_figure\flowRoot4011-9.png"
-         id="g4476">
-        <path
-           style="fill:#000000;fill-opacity:0.25098039;stroke:none"
-           d="m 540,57.375 c -59.64675,0 -108,48.35325 -108,108 0,5.78931 0.4666,11.45736 1.34375,17 L 476,182.36218 l 0,-6 c 10,0 16,-6 16,-16 l 0,-28 72,0 0,12 32,0 0,16 c 0,10 6,16 14,16 l 0,6 36.65625,0.0128 c 0.87715,-5.54264 1.34375,-11.21069 1.34375,-17 0,-59.64675 -48.35325,-108 -108,-108 z"
-           id="path4714-4-4"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ssccccccccccccss"
-           mask="url(#mask4776-5-2)"
-           transform="translate(-360.99999,580.36395)" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
-           d="m 179.00001,637.73895 c -59.64675,0 -108,48.35325 -108,108 0,11.51859 1.81669,22.59064 5.15625,33 l 205.6875,0 c 3.33956,-10.40936 5.15625,-21.48141 5.15625,-33 0,-59.64675 -48.35325,-108 -108,-108 z"
-           id="path4347-8-8"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 139.00001,768.72613 -68,-10e-6"
-           id="path3766-1-5-6-2"
-           sodipodi:nodetypes="cc" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 287.00001,768.72612 -70,10e-6"
-           id="path3766-1-4-02-4-1"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 219.00001,768.72613 0,-12 c -10,0 -16,-6 -16,-16 l 0,-28 -72,0 0,28 c 0,10 -6,16 -16,16 l 0,6"
-           id="path3772-6-6-6"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 155.00001,738.72613 0,2 c 0,8 -8,16 -16,16 l 0,14"
-           id="path2996-0-8-83"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 179.00001,775.72614 0,-25.00001"
-           id="path2996-7-2-9-1"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-        <path
-           sodipodi:type="arc"
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           id="path3868-4-8-4"
-           sodipodi:cx="402.5"
-           sodipodi:cy="439.86218"
-           sodipodi:rx="5"
-           sodipodi:ry="5"
-           d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
-           transform="translate(-247.49999,293.86395)" />
-        <path
-           sodipodi:type="arc"
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           id="path3868-9-8-3-8"
-           sodipodi:cx="402.5"
-           sodipodi:cy="439.86218"
-           sodipodi:rx="5"
-           sodipodi:ry="5"
-           d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
-           transform="translate(-223.49999,305.86395)" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 249.00001,762.72613 0,-6 c -8,0 -14,-6 -14,-16 l 0,-16 -31,0"
-           id="path3772-8-6-5-4"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc" />
-      </g>
-      <flowRoot
-         inkscape:export-filename="C:\Users\Nils\Documents\School\Clubs\MRO\Public documents\Promotional\logo\bitmaps\black_and_white\black_figure\flowRoot4011-9.png"
-         inkscape:export-ydpi="309.26175"
-         inkscape:export-xdpi="309.26175"
-         transform="matrix(0.89491099,0,0,0.89491099,116.83241,298.20798)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         id="flowRoot4011-9"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4013-2"><rect
-             y="402.36218"
-             x="221.5"
-             height="227.37259"
-             width="456.78784"
-             id="rect4015-0" /></flowRegion><flowPara
-           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
-           id="flowPara4017-7">Mesa</flowPara><flowPara
-           id="flowPara4021-0"
-           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Robotics</flowPara><flowPara
-           id="flowPara4019-6"
-           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Organization</flowPara></flowRoot>    </g>
+       id="g3431"
+       transform="translate(1e-4,-325.55105)"
+       inkscape:export-xdpi="308.34955"
+       inkscape:export-ydpi="308.34955"
+       inkscape:export-filename="C:\Users\Nils\Documents\School\Clubs\MRO\Public documents\Promotional\logo\flowRoot4011-5.png">
+      <path
+         transform="translate(-360.99999,721.61837)"
+         mask="url(#mask4776-5-9)"
+         sodipodi:nodetypes="ssccccccccccccss"
+         inkscape:connector-curvature="0"
+         id="path4714-4-8"
+         d="m 540,57.375 c -59.64675,0 -108,48.35325 -108,108 0,5.78931 0.4666,11.45736 1.34375,17 L 476,182.36218 l 0,-6 c 10,0 16,-6 16,-16 l 0,-28 72,0 0,12 32,0 0,16 c 0,10 6,16 14,16 l 0,6 36.65625,0.0128 c 0.87715,-5.54264 1.34375,-11.21069 1.34375,-17 0,-59.64675 -48.35325,-108 -108,-108 z"
+         style="fill:url(#linearGradient4576);fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4347-8-5"
+         d="m 179.00001,778.99337 c -59.64675,0 -108,48.35325 -108,108 0,11.51859 1.81669,22.59064 5.15625,33 l 205.6875,0 c 3.33956,-10.40936 5.15625,-21.48141 5.15625,-33 0,-59.64675 -48.35325,-108 -108,-108 z"
+         style="fill:none;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3766-1-5-6-7"
+         d="m 139.00001,909.98055 -68,-10e-6"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3766-1-4-02-4-6"
+         d="m 287.00001,909.98054 -70,10e-6"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3772-6-6-1"
+         d="m 219.00001,909.98055 0,-12 c -10,0 -16,-6 -16,-16 l 0,-28 -72,0 0,28 c 0,10 -6,16 -16,16 l 0,6"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path2996-0-8-8"
+         d="m 155.00001,879.98055 0,2 c 0,8 -8,16 -16,16 l 0,14"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2996-7-2-9-9"
+         d="m 179.00001,916.98056 0,-25.00001"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         transform="translate(-247.49999,435.11837)"
+         d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         sodipodi:ry="5"
+         sodipodi:rx="5"
+         sodipodi:cy="439.86218"
+         sodipodi:cx="402.5"
+         id="path3868-4-8-2"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(-223.49999,447.11837)"
+         d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         sodipodi:ry="5"
+         sodipodi:rx="5"
+         sodipodi:cy="439.86218"
+         sodipodi:cx="402.5"
+         id="path3868-9-8-3-7"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3772-8-6-5-9"
+         d="m 249.00001,903.98055 0,-6 c -8,0 -14,-6 -14,-16 l 0,-16 -31,0"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
     <flowRoot
+       xml:space="preserve"
+       id="flowRoot4011-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;font-family:Sans"
+       transform="matrix(0.89491099,0,0,0.89491099,116.83241,113.91135)"
+       inkscape:export-xdpi="308.34955"
+       inkscape:export-ydpi="308.34955"><flowRegion
+         id="flowRegion4013-4"><rect
+           id="rect4015-3"
+           width="456.78784"
+           height="227.37259"
+           x="221.5"
+           y="402.36218"
+           style="fill:#ffffff;stroke:#ffffff" /></flowRegion><flowPara
+         id="flowPara4017-1"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Mesa</flowPara><flowPara
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+         id="flowPara4021-2">Robotics</flowPara><flowPara
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+         id="flowPara4019-3">Organization</flowPara></flowRoot>    <g
+       id="g4488"
+       inkscape:export-filename="C:\Users\Nils\Documents\School\Clubs\MRO\Public documents\Promotional\logo\bitmap.png"
+       inkscape:export-xdpi="308.34052"
+       inkscape:export-ydpi="308.34052"
+       transform="translate(1e-4,0)">
+      <path
+         transform="translate(-360.99999,744.90396)"
+         mask="url(#mask4776-5-9-0)"
+         sodipodi:nodetypes="ssccccccccccccss"
+         inkscape:connector-curvature="0"
+         id="path4714-4-8-0"
+         d="m 540,57.375 c -59.64675,0 -108,48.35325 -108,108 0,5.78931 0.4666,11.45736 1.34375,17 L 476,182.36218 l 0,-6 c 10,0 16,-6 16,-16 l 0,-28 72,0 0,12 32,0 0,16 c 0,10 6,16 14,16 l 0,6 36.65625,0.0128 c 0.87715,-5.54264 1.34375,-11.21069 1.34375,-17 0,-59.64675 -48.35325,-108 -108,-108 z"
+         style="fill:#000000;fill-opacity:0.25098039;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4347-8-5-0"
+         d="m 179.00001,802.27896 c -59.64675,0 -108,48.35325 -108,108 0,11.51859 1.81669,22.59064 5.15625,33 l 205.6875,0 c 3.33956,-10.40936 5.15625,-21.48141 5.15625,-33 0,-59.64675 -48.35325,-108 -108,-108 z"
+         style="fill:none;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3766-1-5-6-7-5"
+         d="m 139.00001,933.26614 -68,-10e-6"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3766-1-4-02-4-6-3"
+         d="m 287.00001,933.26613 -70,10e-6"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3772-6-6-1-1"
+         d="m 219.00001,933.26614 0,-12 c -10,0 -16,-6 -16,-16 l 0,-28 -72,0 0,28 c 0,10 -6,16 -16,16 l 0,6"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path2996-0-8-8-0"
+         d="m 155.00001,903.26614 0,2 c 0,8 -8,16 -16,16 l 0,14"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2996-7-2-9-9-6"
+         d="m 179.00001,940.26615 0,-25.00001"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         transform="translate(-247.49999,458.40396)"
+         d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         sodipodi:ry="5"
+         sodipodi:rx="5"
+         sodipodi:cy="439.86218"
+         sodipodi:cx="402.5"
+         id="path3868-4-8-2-7"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(-223.49999,470.40396)"
+         d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         sodipodi:ry="5"
+         sodipodi:rx="5"
+         sodipodi:cy="439.86218"
+         sodipodi:cx="402.5"
+         id="path3868-9-8-3-7-5"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3772-8-6-5-9-0"
+         d="m 249.00001,927.26614 0,-6 c -8,0 -14,-6 -14,-16 l 0,-16 -31,0"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4011-5-0"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;display:inline;font-family:Sans"
+       transform="matrix(0.89491099,0,0,0.89491099,116.83241,462.74799)"
+       inkscape:export-xdpi="308.34052"
+       inkscape:export-ydpi="308.34052"
+       inkscape:export-filename="C:\Users\Nils\Documents\School\Clubs\MRO\Public documents\Promotional\logo\bitmap.png"><flowRegion
+         id="flowRegion4013-4-4"><rect
+           id="rect4015-3-5"
+           width="456.78784"
+           height="227.37259"
+           x="221.5"
+           y="402.36218"
+           style="fill:#ffffff;stroke:#ffffff" /></flowRegion><flowPara
+         id="flowPara4017-1-4"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Mesa</flowPara><flowPara
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+         id="flowPara4021-2-9">Robotics</flowPara><flowPara
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+         id="flowPara4019-3-5">Organization</flowPara></flowRoot>    <g
+       id="g4476"
+       inkscape:export-filename="C:\Users\Nils\Documents\School\Clubs\MRO\Public documents\Promotional\logo\flowRoot4011-9.png"
+       inkscape:export-xdpi="309.26175"
+       inkscape:export-ydpi="309.26175"
+       transform="translate(1e-4,-9.6545868)">
+      <path
+         transform="translate(-360.99999,580.36395)"
+         mask="url(#mask4776-5-2)"
+         sodipodi:nodetypes="ssccccccccccccss"
+         inkscape:connector-curvature="0"
+         id="path4714-4-4"
+         d="m 540,57.375 c -59.64675,0 -108,48.35325 -108,108 0,5.78931 0.4666,11.45736 1.34375,17 L 476,182.36218 l 0,-6 c 10,0 16,-6 16,-16 l 0,-28 72,0 0,12 32,0 0,16 c 0,10 6,16 14,16 l 0,6 36.65625,0.0128 c 0.87715,-5.54264 1.34375,-11.21069 1.34375,-17 0,-59.64675 -48.35325,-108 -108,-108 z"
+         style="fill:#000000;fill-opacity:0.25098039;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4347-8-8"
+         d="m 179.00001,637.73895 c -59.64675,0 -108,48.35325 -108,108 0,11.51859 1.81669,22.59064 5.15625,33 l 205.6875,0 c 3.33956,-10.40936 5.15625,-21.48141 5.15625,-33 0,-59.64675 -48.35325,-108 -108,-108 z"
+         style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3766-1-5-6-2"
+         d="m 139.00001,768.72613 -68,-10e-6"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3766-1-4-02-4-1"
+         d="m 287.00001,768.72612 -70,10e-6"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3772-6-6-6"
+         d="m 219.00001,768.72613 0,-12 c -10,0 -16,-6 -16,-16 l 0,-28 -72,0 0,28 c 0,10 -6,16 -16,16 l 0,6"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path2996-0-8-83"
+         d="m 155.00001,738.72613 0,2 c 0,8 -8,16 -16,16 l 0,14"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2996-7-2-9-1"
+         d="m 179.00001,775.72614 0,-25.00001"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         transform="translate(-247.49999,293.86395)"
+         d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         sodipodi:ry="5"
+         sodipodi:rx="5"
+         sodipodi:cy="439.86218"
+         sodipodi:cx="402.5"
+         id="path3868-4-8-4"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(-223.49999,305.86395)"
+         d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         sodipodi:ry="5"
+         sodipodi:rx="5"
+         sodipodi:cy="439.86218"
+         sodipodi:cx="402.5"
+         id="path3868-9-8-3-8"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3772-8-6-5-4"
+         d="m 249.00001,762.72613 0,-6 c -8,0 -14,-6 -14,-16 l 0,-16 -31,0"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4011-9"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(0.89491099,0,0,0.89491099,116.83241,288.55339)"
+       inkscape:export-xdpi="309.26175"
+       inkscape:export-ydpi="309.26175"
+       inkscape:export-filename="C:\Users\Nils\Documents\School\Clubs\MRO\Public documents\Promotional\logo\bitmaps\black_and_white\black_figure\flowRoot4011-9.png"><flowRegion
+         id="flowRegion4013-2"><rect
+           id="rect4015-0"
+           width="456.78784"
+           height="227.37259"
+           x="221.5"
+           y="402.36218" /></flowRegion><flowPara
+         id="flowPara4017-7"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Mesa</flowPara><flowPara
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+         id="flowPara4021-0">Robotics</flowPara><flowPara
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+         id="flowPara4019-6">Organization</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4580"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -998,103 +990,99 @@
      inkscape:label="text"
      style="display:inline">
     <g
-       id="g4500"
-       transform="translate(0,-1.5258789e-5)">
-      <g
-         inkscape:export-filename="C:\Users\Nils\Documents\School\Clubs\MRO\Documents\Promotional\flowRoot4011.png"
-         inkscape:export-ydpi="620.93958"
-         inkscape:export-xdpi="620.93958"
-         transform="translate(-262.99989,253.87275)"
-         id="g4780-1"
-         style="display:inline">
-        <path
-           style="fill:url(#linearGradient4578);fill-opacity:1;stroke:none"
-           d="m 540,57.375 c -59.64675,0 -108,48.35325 -108,108 0,5.78931 0.4666,11.45736 1.34375,17 L 476,182.36218 l 0,-6 c 10,0 16,-6 16,-16 l 0,-28 72,0 0,12 32,0 0,16 c 0,10 6,16 14,16 l 0,6 36.65625,0.0128 c 0.87715,-5.54264 1.34375,-11.21069 1.34375,-17 0,-59.64675 -48.35325,-108 -108,-108 z"
-           id="path4714-4"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ssccccccccccccss"
-           mask="url(#mask4776-5)"
-           transform="translate(-98,-32.000007)" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
-           d="m 442,25.374993 c -59.64675,0 -108,48.35325 -108,107.999997 0,11.51859 1.81669,22.59064 5.15625,33 l 205.6875,0 C 548.18331,155.96563 550,144.89358 550,133.37499 550,73.728243 501.64675,25.374993 442,25.374993 z"
-           id="path4347-8"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 402,156.36217 -68,-1e-5"
-           id="path3766-1-5-6"
-           sodipodi:nodetypes="cc" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 550,156.36216 -70,1e-5"
-           id="path3766-1-4-02-4"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 482,156.36217 0,-12 c -10,0 -16,-6 -16,-16 l 0,-28 -72,0 0,28 c 0,10 -6,16 -16,16 l 0,6"
-           id="path3772-6-6"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 418,126.36217 0,2 c 0,8 -8,16 -16,16 l 0,14"
-           id="path2996-0-8"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 442,163.36218 0,-25.00001"
-           id="path2996-7-2-9"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-        <path
-           sodipodi:type="arc"
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           id="path3868-4-8"
-           sodipodi:cx="402.5"
-           sodipodi:cy="439.86218"
-           sodipodi:rx="5"
-           sodipodi:ry="5"
-           d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
-           transform="translate(15.5,-318.50001)" />
-        <path
-           sodipodi:type="arc"
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           id="path3868-9-8-3"
-           sodipodi:cx="402.5"
-           sodipodi:cy="439.86218"
-           sodipodi:rx="5"
-           sodipodi:ry="5"
-           d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
-           transform="translate(39.5,-306.50001)" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 512,150.36217 0,-6 c -8,0 -14,-6 -14,-16 l 0,-16 -31,0"
-           id="path3772-8-6-5"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc" />
-      </g>
-      <flowRoot
-         inkscape:export-ydpi="620.93958"
-         inkscape:export-xdpi="620.93958"
-         transform="matrix(0.89491099,0,0,0.89491099,116.83241,-60.283223)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot4011"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4013"><rect
-             y="402.36218"
-             x="221.5"
-             height="227.37259"
-             width="456.78784"
-             id="rect4015" /></flowRegion><flowPara
-           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
-           id="flowPara4017">Mesa</flowPara><flowPara
-           id="flowPara4021"
-           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Robotics</flowPara><flowPara
-           id="flowPara4019"
-           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Organization</flowPara></flowRoot>    </g>
-  </g>
+       style="display:inline"
+       id="g4780-1"
+       transform="translate(-262.99989,253.87273)"
+       inkscape:export-xdpi="309.26175"
+       inkscape:export-ydpi="309.26175"
+       inkscape:export-filename="C:\Users\Nils\Documents\School\Clubs\MRO\Public documents\Promotional\logo\flowRoot4011.png">
+      <path
+         transform="translate(-98,-32.000007)"
+         mask="url(#mask4776-5)"
+         sodipodi:nodetypes="ssccccccccccccss"
+         inkscape:connector-curvature="0"
+         id="path4714-4"
+         d="m 540,57.375 c -59.64675,0 -108,48.35325 -108,108 0,5.78931 0.4666,11.45736 1.34375,17 L 476,182.36218 l 0,-6 c 10,0 16,-6 16,-16 l 0,-28 72,0 0,12 32,0 0,16 c 0,10 6,16 14,16 l 0,6 36.65625,0.0128 c 0.87715,-5.54264 1.34375,-11.21069 1.34375,-17 0,-59.64675 -48.35325,-108 -108,-108 z"
+         style="fill:url(#linearGradient4578);fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4347-8"
+         d="m 442,25.374993 c -59.64675,0 -108,48.35325 -108,107.999997 0,11.51859 1.81669,22.59064 5.15625,33 l 205.6875,0 C 548.18331,155.96563 550,144.89358 550,133.37499 550,73.728243 501.64675,25.374993 442,25.374993 z"
+         style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3766-1-5-6"
+         d="m 402,156.36217 -68,-1e-5"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3766-1-4-02-4"
+         d="m 550,156.36216 -70,1e-5"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3772-6-6"
+         d="m 482,156.36217 0,-12 c -10,0 -16,-6 -16,-16 l 0,-28 -72,0 0,28 c 0,10 -6,16 -16,16 l 0,6"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path2996-0-8"
+         d="m 418,126.36217 0,2 c 0,8 -8,16 -16,16 l 0,14"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2996-7-2-9"
+         d="m 442,163.36218 0,-25.00001"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         transform="translate(15.5,-318.50001)"
+         d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         sodipodi:ry="5"
+         sodipodi:rx="5"
+         sodipodi:cy="439.86218"
+         sodipodi:cx="402.5"
+         id="path3868-4-8"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(39.5,-306.50001)"
+         d="m 407.5,439.86218 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
+         sodipodi:ry="5"
+         sodipodi:rx="5"
+         sodipodi:cy="439.86218"
+         sodipodi:cx="402.5"
+         id="path3868-9-8-3"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3772-8-6-5"
+         d="m 512,150.36217 0,-6 c -8,0 -14,-6 -14,-16 l 0,-16 -31,0"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4011"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.89491099,0,0,0.89491099,116.83241,-60.283238)"
+       inkscape:export-xdpi="309.26175"
+       inkscape:export-ydpi="309.26175"><flowRegion
+         id="flowRegion4013"><rect
+           id="rect4015"
+           width="456.78784"
+           height="227.37259"
+           x="221.5"
+           y="402.36218" /></flowRegion><flowPara
+         id="flowPara4017"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Mesa</flowPara><flowPara
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+         id="flowPara4021">Robotics</flowPara><flowPara
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:89.99999762%;letter-spacing:-1px;word-spacing:0px;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+         id="flowPara4019">Organization</flowPara></flowRoot>  </g>
 </svg>
